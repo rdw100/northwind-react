@@ -1,0 +1,21 @@
+● src
++---● actions
+|   |
+|   |--api.js (http CRUD)
+|   |--actions.js (Redux actions)
+|   |--store.js (Redux store)
+|
++---● components
+|   |
+|   |--shipperForm.js (child)
+|   |--shipperList.js (parent)
+|   |--useForm.js (form operations)
+|
++---● reducers
+|   |
+|   |--shipper.js
+|   |--index.js
+|
+|--App.js
+|--index.js
+|--index.css
