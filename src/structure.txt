@@ -7,8 +7,8 @@
 |
 +---● components
 |   |
-|   |--shipperForm.js (child)
-|   |--shipperList.js (parent)
+|   |--ShipperForm.js (child)
+|   |--ShipperList.js (parent)
 |   |--useForm.js (form operations)
 |
 +---● reducers
